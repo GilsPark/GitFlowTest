@@ -13,5 +13,6 @@ void func2()
 void main()
 {
 	func1();
+	func2();
 	printf("Hello World\r\n");
 }
