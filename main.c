@@ -7,5 +7,6 @@ void func1()
 
 void main()
 {
+	func1();
 	printf("Hello World\r\n");
 }
